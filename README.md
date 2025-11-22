@@ -2,7 +2,7 @@
 
 <img width="386" height="858" alt="Screenshot 2025-11-22 181842" src="https://github.com/user-attachments/assets/6e347ac1-10b1-4710-ac30-323da6ce5ad2" />
 
-Authorization
+## Authorization
 
 <img width="384" height="861" alt="Screenshot 2025-11-22 181853" src="https://github.com/user-attachments/assets/ae94739a-e5e4-4da9-9736-01c8614e7dc9" />
 
