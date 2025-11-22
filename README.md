@@ -1,3 +1,12 @@
+Crag Tag is a cross-platform climbing companion app built with Flutter. It lets climbers create posts with photos, ratings, and difficulty levels, browse a personalized feed, manage their profile, and save favorite climbs for quick access.
+
+## Features
+- Welcome screen and onboarding
+- Login & registration
+- Light and dark themed home feeds
+- Personal profile and favorites feed
+- Create post with difficulty, rating, and image upload
+
 ## Welcome Page!
 
 <img width="386" height="858" alt="Screenshot 2025-11-22 181842" src="https://github.com/user-attachments/assets/6e347ac1-10b1-4710-ac30-323da6ce5ad2" />
